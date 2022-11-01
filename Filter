@@ -1,0 +1,136 @@
+<html>
+  <h1>EventsTown</h1>
+  
+  <a href="#login">login</a>
+  <br>
+  <br><div class="topnav">
+    <input type="text" placeholder="Search..">
+  </div><br>
+  
+  <a class="active" href="#home">Home</a>
+  <a href="#news">Events</a>
+  <a href="#contact">Calender</a>
+  <a href="#about">About Us</a>
+  
+  <h1>Filter</h1>
+  <h2>Category:</h2>
+  <form action="/action_page.php">
+  <input type="radio" id="html" name="catorogy" value="Technology">
+  <label for="Technology">Technology</label><br><br>
+  </form>
+  <form action="/action_page.php">
+  <input type="radio" id="html1" name="catorogy" value="shows">
+  <label for="shows">shows</label>
+  </form>
+ <form action="/action_page.php">
+  <input type="radio" id="html2" name="catorogy" value="sports">
+  <label for="sports">Sports</label>
+  </form>
+ <form action="/action_page.php">
+  <input type="radio" id="html3" name="catorogy" value="concerts">
+  <label for="concerts">Concerts</label>
+  </form>
+ <form action="/action_page.php">
+  <input type="radio" id="html4" name="catorogy" value="other">
+  <label for="other">Other</label>
+ </form>
+
+
+
+
+
+  
+  
+  
+  <h2>Date:</h2>
+  <div class="container">
+      <div class="calendar">
+        <div class="front">
+          <div class="current-date">
+          </div>
+
+          <div class="current-month">
+            <ul class="week-days">
+              <li>MON</li>
+              <li>TUE</li>
+              <li>WED</li>
+              <li>THU</li>
+              <li>FRI</li>
+              <li>SAT</li>
+              <li>SUN</li>
+            </ul>
+
+            <div class="weeks">
+              <div class="first">
+                <span class="last-month">28</span>
+                <span class="last-month">29</span>
+                <span class="last-month">30</span>
+                <span class="last-month">31</span>
+                <span>01</span>
+                <span>02</span>
+                <span>03</span>
+              </div>
+
+              <div class="second">
+                <span>04</span>
+                <span>05</span>
+                <span class="event">06</span>
+                <span>07</span>
+                <span>08</span>
+                <span>09</span>
+                <span>10</span>
+              </div>
+
+              <div class="third">
+                <span>11</span>
+                <span>12</span>
+                <span>13</span>
+                <span>14</span>
+                <span class="active">15</span>
+                <span>16</span>
+                <span>17</span>
+              </div>
+
+              <div class="fourth">
+                <span>18</span>
+                <span>19</span>
+                <span>20</span>
+                <span>21</span>
+                <span>22</span>
+                <span>23</span>
+                <span>24</span>
+              </div>
+
+              <div class="fifth">
+                <span>25</span>
+                <span>26</span>
+                <span>27</span>
+                <span>28</span>
+                <span>29</span>
+                <span>30</span>
+                <span>31</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+      
+      <h2>Price:</h2>
+      <form action="/action_page.php">
+  <input type="radio" id="html5" name="catorogy" value="price">
+  <label for="price">FREE - $100</label><br>
+  </form>
+  <form action="/action_page.php">
+  <input type="radio" id="html6" name="catorogy" value="price">
+  <label for="price">$100 - $200</label><br>
+  </form><form action="/action_page.php">
+  <input type="radio" id="html7" name="catorogy" value="price">
+  <label for="price">$200 - $300</label><br>
+  </form><form action="/action_page.php">
+  <input type="radio" id="html8" name="catorogy" value="price">
+  <label for="price">$300 - $400</label><br>
+  </form>
+      
+</html>
