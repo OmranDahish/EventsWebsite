@@ -1,0 +1,19 @@
+<html>
+  <h1>EventsTown</h1>
+  
+  <a href="#login">login</a>
+  <br>
+  <br><div class="topnav">
+    <input type="text" placeholder="Search..">
+  </div><br>
+  
+  <a class="active" href="#home">Home</a>
+  <a href="#news">Events</a>
+  <a href="#contact">Calender</a>
+  <a href="#about">About Us</a>
+  
+  <h1>Find the best events for you !</h1>
+  
+  <button>Get Started !</button>
+  
+</html>
