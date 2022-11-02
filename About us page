@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+
+<!-- about us -->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>booking a tickt</title>
+  </head>
+
+  <body>
+    <h1>Events Town</h1>
+
+
+    <a class="active" href="#home">Home</a>
+    <a href="#news">Events</a>
+    <a href="#contact">Calender</a>
+    <a href="#about">About Us</a>
+
+    <p>
+      <h2>
+        About Us
+      </h2>
+
+      <p>Events Town is an upcoming platform to speed up the process of finding events in your area. It will help you find the latest shows and concerts in the city with the most affordable deals for an eventful weekend .</p>
+
+<a href='https://eventstown.con'>
+        <button class="GFG">
+           Seacrch for Events!!
+        </button>
+    </a>
+  </body>
+
+</html>
