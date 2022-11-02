@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+
+<!-- login page -->
+<html>
+   <head>
+      <meta charset = "utf-8">
+      <title>login page</title>
+   </head>
+
+   <body>
+      <h1>Events Town</h1>
+      
+      
+      
+
+  <a class="active" href="#home">Home</a>
+  <a href="#news">Events</a>
+  <a href="#contact">Calender</a>
+  <a href="#about">About Us</a>
+      <p><strong>Login</strong></p>
+      
+      <form action="/action_page.php">
+  <label for="username">User Name:</label>
+  <input type="un" id="un" name="un"><br><br>
+  <label for="pwd">Password:</label>
+  <input type="password" id="pwd" name="pwd" minlength="8"><br><br>
+  
+  
+  <input type="submit" value="LOGIN"><br>
+  
+  <a href="###">Forgot Password?</a>
+<hr>
+
+<p> New User?</p>
+
+ <input type="submit" value="SIGN UP">
+</form>
+
+   </body>
+</html>
