@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title> EventsTown</title>
+    <h1>Events Town</h1>
+      
+    <h3><strong>Events</strong></h3>
+    <p><strong> Padle championship 2022</strong>  </p>
+    <input type="submit" value="Buy Tickets"><br>
+     <a href="#Buy">Buy Ticket</a>
+  <p><strong> Cycling challenge 2022</strong>   </p>
+  <input type="submit" value="Buy Tickets"><br>
+   <a href="#Buy">Buy Ticket</a>
+   <p><strong>Dubai festival</strong>   </p>
+   <input type="submit" value="Buy Tickets"><br>
+    <a href="#Buy">Buy Ticket</a>
+
+   
