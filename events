@@ -1,0 +1,17 @@
+
+   <!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title> EventsTown</title>
+    <h3> Recommeded for you</h3>
+    <p><strong> Padle championship 2022</strong>   </p>
+    <p> 9:00 AM - 25 Oct</p>
+    <p> tennis centre - dubai</p>
+    <p> Ticket from 50 AED to 200 AED</p>
+      <input type="submit" value="Buy Tickets"><br>
+  <a href="#Buy">Buy Ticket</a>
+
+   
