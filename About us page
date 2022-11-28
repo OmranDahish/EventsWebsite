@@ -64,8 +64,25 @@
 }
     
     
-    
+ button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 20px;
+  cursor: pointer;
+}   
     </style>
+    <script>
+function popFunction() {
+  alert("Get 51% off your next payment Use Code: UAE51 ");
+}
+</script>
+
   </head>
 
   <body>
@@ -89,6 +106,8 @@
 
    
     <input type="button" class="button" value=" Search for Events!!">
+     <button onclick="popFunction()">Check Our National day offer</button>
+
   </body>
 
 </html>
