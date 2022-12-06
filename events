@@ -19,3 +19,49 @@
     <a href="#Buy">Buy Ticket</a>
 
    
+<!project stage4, alya qasem, u19105056>
+
+<!DOCTYPE html>
+<body>
+
+<h1>Events Town</h1>
+
+ 
+  <ul>
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#news">Events</a></li>
+      <li><a href="#colender">Calender</a></li>
+      <li><a href="#about">About us</a></li>
+    </ul>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title> EventsTown</title>
+    <h1>Events Town</h1>
+      
+    <h3><strong>Events</strong></h3>
+    <p><strong> Padle championship 2022</strong> <br>
+      <button onclick="myFunction()">Buy Ticket</button>
+<script>
+function myFunction() {
+  alert("Ticket is added to your cart");
+}
+</script>
+
+  <p><strong> Cycling challenge 2022</strong>   </p>
+    <button onclick="myFunction()">Buy Ticket</button>
+<script>
+function myFunction() {
+  alert("Ticket is added to your cart");
+}
+</script><br>
+   <p><strong>Dubai festival</strong>   </p>
+     <button onclick="myFunction()">Buy Ticket</button>
+<script>
+function myFunction() {
+  alert("Ticket is added to your cart");
+}
+</script><br>
+    
