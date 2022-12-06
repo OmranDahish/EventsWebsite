@@ -13,5 +13,36 @@
     <p> Ticket from 50 AED to 200 AED</p>
       <input type="submit" value="Buy Tickets"><br>
   <a href="#Buy">Buy Ticket</a>
+  
+  <!project stage4, alya qasem, u19105056>
+
+<h1>Events Town</h1>
+
+ 
+  <ul>
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#news">Events</a></li>
+      <li><a href="#colender">Calender</a></li>
+      <li><a href="#about">About us</a></li>
+    </ul>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title> EventsTown</title>
+    <h3> Recommeded for you</h3>
+    <p style = “font-size: 25pt;”>Padle championship 2022 </p>
+    <p> 9:00 AM - 25 Oct</p>
+    <p> tennis centre - dubai</p>
+    <p> Ticket from 50 AED to 200 AED</p>
+     <button onclick="myFunction()">Buy Ticket</button>
+
+<script>
+function myFunction() {
+  alert("Ticket is added to your cart");
+}
+</script>
+
+ 
 
    
