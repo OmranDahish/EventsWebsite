@@ -1,19 +1,107 @@
+<!DOCTYPE html>
+
+
+<!-- about us -->
 <html>
-  <h1>EventsTown</h1>
-  
-  <a href="#login">login</a>
-  <br>
-  <br><div class="topnav">
-    <input type="text" placeholder="Search..">
-  </div><br>
-  
-  <a class="active" href="#home">Home</a>
-  <a href="#news">Events</a>
-  <a href="#contact">Calender</a>
-  <a href="#about">About Us</a>
-  
-  <h1>Find the best events for you !</h1>
-  
-  <button>Get Started !</button>
-  
+
+  <head>
+    <meta charset="utf-8">
+    <title>booking a tickt</title>
+    
+    
+    <style>
+    
+    ul {
+        list-style-type: none;
+        margin: -10px;
+        padding: 0;
+        overflow: hidden;
+        background-color: red;
+      }
+
+      li {
+        float: left;
+      }
+
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 40px;
+        text-decoration: none;
+      }
+
+      li a:hover {
+        background-color: #9D0707;
+      }
+
+      h1 {
+        color: red;
+        text-align: center;
+        background-image: <img src='https://github.com/OmranDahish/EventsWebsite/issues/1#issue-1445816876'>
+      }
+      
+      
+      
+     h2{
+       font-size:60px;
+       color:red;
+       margin: 20px;
+        padding: 5px;
+     }
+     
+    .button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 20px;
+  cursor: pointer;
+}
+    
+    
+ button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 20px;
+  cursor: pointer;
+}   
+    </style>
+    
+  </head>
+
+  <body>
+    <h1>Events Town</h1>
+
+
+    <ul>
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#news">Events</a></li>
+      <li><a href="#colender">Calender</a></li>
+      <li><a href="#about">About us</a></li>
+    </ul>
+
+
+    <p>
+      <h2>
+        Find the best events for you!!!
+      </h2>
+
+      
+   
+    <input type="button" class="button" value=" Get Started !!">
+     
+
+  </body>
+
 </html>
